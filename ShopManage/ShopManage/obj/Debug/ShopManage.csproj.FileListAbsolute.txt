@@ -1,0 +1,16 @@
+D:\ITE\ShopManage\ShopManage\bin\Debug\ShopManage.exe.config
+D:\ITE\ShopManage\ShopManage\bin\Debug\ShopManage.exe
+D:\ITE\ShopManage\ShopManage\bin\Debug\ShopManage.pdb
+D:\ITE\ShopManage\ShopManage\obj\Debug\ShopManage.csproj.AssemblyReference.cache
+D:\ITE\ShopManage\ShopManage\obj\Debug\ShopManage.csproj.SuggestedBindingRedirects.cache
+D:\ITE\ShopManage\ShopManage\obj\Debug\ShopManage.csproj.CoreCompileInputs.cache
+D:\ITE\ShopManage\ShopManage\obj\Debug\ShopManage.exe
+D:\ITE\ShopManage\ShopManage\obj\Debug\ShopManage.pdb
+C:\Users\GHC\Downloads\ShopManage\ShopManage\ShopManage\bin\Debug\ShopManage.exe.config
+C:\Users\GHC\Downloads\ShopManage\ShopManage\ShopManage\bin\Debug\ShopManage.exe
+C:\Users\GHC\Downloads\ShopManage\ShopManage\ShopManage\bin\Debug\ShopManage.pdb
+C:\Users\GHC\Downloads\ShopManage\ShopManage\ShopManage\obj\Debug\ShopManage.csproj.AssemblyReference.cache
+C:\Users\GHC\Downloads\ShopManage\ShopManage\ShopManage\obj\Debug\ShopManage.csproj.SuggestedBindingRedirects.cache
+C:\Users\GHC\Downloads\ShopManage\ShopManage\ShopManage\obj\Debug\ShopManage.csproj.CoreCompileInputs.cache
+C:\Users\GHC\Downloads\ShopManage\ShopManage\ShopManage\obj\Debug\ShopManage.exe
+C:\Users\GHC\Downloads\ShopManage\ShopManage\ShopManage\obj\Debug\ShopManage.pdb
